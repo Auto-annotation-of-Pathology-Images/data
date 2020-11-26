@@ -1,0 +1,800 @@
+,file_name,label,ds,file_type,source,source_type
+0,FFPE PostRep 005_tubules_19.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+1,FFPE PostRep 005_tubules_1.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+2,FFPE PostRep 008_tubules_5.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+3,FFPE PostRep 008_tubules_15.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+4,20000_14800_0_distal_tubule_6.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+5,FFPE PostRep 006_tubule_2.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+6,FFPE PostRep 004_tubules_18.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+7,FFPE PostRep 010_tubule_19.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+8,FFPE PostRep 004_tubules_13.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+9,FFPE PostRep 008_tubules_0.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+10,11000_16000_0_proximal_tubule_16.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+11,13600_18000_0_proximal_tubule_49.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+12,13600_18000_0_proximal_tubule_46.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+13,FFPE PostRep 010_tubule_21.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+14,20000_14800_0_proximal_tubule_19.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+15,FFPE PostRep 010_tubule_6.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+16,FFPE PostRep 004_tubules_14.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+17,13600_18000_0_distal_tubule_1.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+18,13600_18000_0_proximal_tubule_35.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+19,13600_18000_0_proximal_tubule_10.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+20,11000_16000_0_distal_tubule_8.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+21,11000_16000_0_proximal_tubule_4.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+22,13600_18000_0_proximal_tubule_15.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+23,FFPE PostRep 005_tubules_4.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+24,13600_18000_0_proximal_tubule_9.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+25,FFPE PostRep 005_tubules_13.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+26,FFPE PostRep 005_tubules_3.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+27,FFPE PostRep 005_tubules_2.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+28,13600_18000_0_distal_tubule_8.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+29,FFPE PostRep 006_tubule_4.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+30,13600_18000_0_distal_tubule_3.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+31,13600_18000_0_distal_tubule_7.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+32,FFPE PostRep 010_tubule_22.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+33,FFPE PostRep 006_tubule_18.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+34,11000_16000_0_distal_tubule_3.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+35,13600_18000_0_distal_tubule_6.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+36,13600_18000_0_proximal_tubule_22.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+37,20000_14800_0_proximal_tubule_37.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+38,FFPE PostRep 005_tubules_15.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+39,20000_14800_0_distal_tubule_4.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+40,13600_18000_0_proximal_tubule_30.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+41,13600_18000_0_distal_tubule_4.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+42,11000_16000_0_distal_tubule_5.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+43,11000_16000_0_distal_tubule_9.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+44,FFPE PostRep 004_tubules_15.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+45,20000_14800_0_proximal_tubule_16.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+46,FFPE PostRep 006_tubule_22.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+47,FFPE PostRep 008_tubules_17.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+48,20000_14800_0_proximal_tubule_32.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+49,FFPE PostRep 006_tubule_21.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+50,FFPE PostRep 008_tubules_16.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+51,FFPE PostRep 008_tubules_9.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+52,11000_16000_0_distal_tubule_10.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+53,FFPE PostRep 005_tubules_11.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+54,FFPE PostRep 006_tubule_1.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+55,11000_16000_0_distal_tubule_7.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+56,20000_14800_0_distal_tubule_3.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+57,11000_16000_0_proximal_tubule_5.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+58,FFPE PostRep 005_tubules_12.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+59,20000_14800_0_proximal_tubule_45.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+60,FFPE PostRep 010_tubule_0.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+61,20000_14800_0_proximal_tubule_58.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+62,FFPE PostRep 005_tubules_9.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+63,20000_14800_0_proximal_tubule_17.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+64,20000_14800_0_proximal_tubule_41.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+65,11000_16000_0_distal_tubule_4.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+66,FFPE PostRep 006_tubule_3.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+67,20000_14800_0_proximal_tubule_33.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+68,FFPE PostRep 004_tubules_19.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+69,20000_14800_0_proximal_tubule_71.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+70,FFPE PostRep 005_tubules_5.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+71,FFPE PostRep 008_tubules_8.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+72,20000_14800_0_proximal_tubule_31.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+73,FFPE PostRep 005_tubules_10.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+74,20000_14800_0_proximal_tubule_18.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+75,20000_14800_0_proximal_tubule_46.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+76,11000_16000_0_distal_tubule_2.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+77,13600_18000_0_distal_tubule_5.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+78,FFPE PostRep 006_tubule_0.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+79,11000_16000_0_proximal_tubule_2.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+80,13600_18000_0_distal_tubule_2.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+81,20000_14800_0_proximal_tubule_1.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+82,FFPE PostRep 010_tubule_4.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+83,13600_18000_0_proximal_tubule_25.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+84,FFPE PostRep 010_tubule_18.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+85,11000_16000_0_distal_tubule_1.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+86,FFPE PostRep 006_tubule_20.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+87,FFPE PostRep 004_tubules_7.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+88,20000_14800_0_distal_tubule_1.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+89,13600_18000_0_proximal_tubule_11.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+90,FFPE PostRep 004_tubules_1.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+91,20000_14800_0_proximal_tubule_60.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+92,13600_18000_0_proximal_tubule_39.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+93,FFPE PostRep 008_tubules_4.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+94,13600_18000_0_proximal_tubule_38.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+95,20000_14800_0_proximal_tubule_5.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+96,20000_14800_0_distal_tubule_7.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+97,FFPE PostRep 008_tubules_13.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+98,20000_14800_0_proximal_tubule_63.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+99,11000_16000_0_proximal_tubule_19.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+100,20000_14800_0_proximal_tubule_70.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+101,FFPE PostRep 010_tubule_5.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+102,FFPE PostRep 004_tubules_17.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+103,FFPE PostRep 004_tubules_8.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+104,FFPE PostRep 006_tubule_17.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+105,FFPE PostRep 006_tubule_8.png,distal_tubule,train,png,FFPE PostRep 006,WSI
+106,13600_18000_0_proximal_tubule_2.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+107,FFPE PostRep 004_tubules_21.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+108,11000_16000_0_distal_tubule_6.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+109,FFPE PostRep 005_tubules_6.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+110,FFPE PostRep 004_tubules_16.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+111,FFPE PostRep 004_tubules_20.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+112,20000_14800_0_proximal_tubule_21.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+113,20000_14800_0_proximal_tubule_38.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+114,FFPE PostRep 010_tubule_20.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+115,FFPE PostRep 004_tubules_12.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+116,20000_14800_0_proximal_tubule_66.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+117,FFPE PostRep 005_tubules_0.png,distal_tubule,train,png,FFPE PostRep 005,WSI
+118,13600_18000_0_proximal_tubule_24.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+119,FFPE PostRep 004_tubules_3.png,distal_tubule,train,png,FFPE PostRep 004,WSI
+120,20000_14800_0_distal_tubule_2.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+121,11000_16000_0_proximal_tubule_15.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+122,20000_14800_0_distal_tubule_5.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+123,20000_14800_0_proximal_tubule_12.png,distal_tubule,train,png,FFPE PostRep 001,WSI
+124,FFPE PostRep 008_tubules_19.png,distal_tubule,train,png,FFPE PostRep 008,WSI
+125,FFPE PostRep 010_tubule_23.png,distal_tubule,train,png,FFPE PostRep 010,WSI
+0,tubule_HE_004_artery_1.png,artery,train,png,tubule_HE_004,MultiStain
+1,artery_HE_002_artery_5.png,artery,train,png,artery_HE_002,MultiStain
+2,FFPE PostRep 010_artery_0.png,artery,train,png,FFPE PostRep 010,WSI
+3,FFPE PostRep 008_artery_1.png,artery,train,png,FFPE PostRep 008,WSI
+4,FFPE PostRep 008_artery_12.png,artery,train,png,FFPE PostRep 008,WSI
+5,19680_14000_0_artery_1.png,artery,train,png,FFPE PostRep 001,WSI
+6,artery_HE_004_artery_1.png,artery,train,png,artery_HE_004,MultiStain
+7,FFPE PostRep 008_artery_9.png,artery,train,png,FFPE PostRep 008,WSI
+8,tubule_HE_003_artery_1.png,artery,train,png,tubule_HE_003,MultiStain
+9,FFPE PostRep 008_artery_8.png,artery,train,png,FFPE PostRep 008,WSI
+10,FFPE PostRep 004_artery_0.png,artery,train,png,FFPE PostRep 004,WSI
+11,FFPE PostRep 008_artery_2.png,artery,train,png,FFPE PostRep 008,WSI
+12,FFPE PostRep 010_artery_1.png,artery,train,png,FFPE PostRep 010,WSI
+13,FFPE PostRep 005_artery_3.png,artery,train,png,FFPE PostRep 005,WSI
+14,tubule_HE_005_artery_1.png,artery,train,png,tubule_HE_005,MultiStain
+15,artery_HE_002_artery_1.png,artery,train,png,artery_HE_002,MultiStain
+16,FFPE PostRep 010_artery_2.png,artery,train,png,FFPE PostRep 010,WSI
+17,artery_HE_001_artery_1.png,artery,train,png,artery_HE_001,MultiStain
+18,FFPE PostRep 005_artery_0.png,artery,train,png,FFPE PostRep 005,WSI
+19,FFPE PostRep 008_artery_7.png,artery,train,png,FFPE PostRep 008,WSI
+20,artery_HE_002_artery_2.png,artery,train,png,artery_HE_002,MultiStain
+21,artery_HE_003_artery_2.png,artery,train,png,artery_HE_003,MultiStain
+22,artery_HE_001_artery_2.png,artery,train,png,artery_HE_001,MultiStain
+23,FFPE PostRep 005_artery_1.png,artery,train,png,FFPE PostRep 005,WSI
+24,19680_14000_0_artery_2.png,artery,train,png,FFPE PostRep 001,WSI
+25,artery_HE_003_artery_1.png,artery,train,png,artery_HE_003,MultiStain
+26,artery_HE_003_artery_3.png,artery,train,png,artery_HE_003,MultiStain
+27,2400_10000_0_artery_1.png,artery,train,png,FFPE PostRep 001,WSI
+28,artery_HE_002_artery_3.png,artery,train,png,artery_HE_002,MultiStain
+29,FFPE PostRep 010_artery_3.png,artery,train,png,FFPE PostRep 010,WSI
+30,artery_HE_001_artery_3.png,artery,train,png,artery_HE_001,MultiStain
+31,FFPE PostRep 008_artery_6.png,artery,train,png,FFPE PostRep 008,WSI
+32,FFPE PostRep 010_artery_4.png,artery,train,png,FFPE PostRep 010,WSI
+33,FFPE PostRep 006_artery_1.png,artery,train,png,FFPE PostRep 006,WSI
+34,FFPE PostRep 008_artery_10.png,artery,train,png,FFPE PostRep 008,WSI
+35,FFPE PostRep 010_artery_5.png,artery,train,png,FFPE PostRep 010,WSI
+36,FFPE PostRep 005_artery_4.png,artery,train,png,FFPE PostRep 005,WSI
+37,artery_HE_002_artery_4.png,artery,train,png,artery_HE_002,MultiStain
+38,artery_HE_003_artery_4.png,artery,train,png,artery_HE_003,MultiStain
+39,FFPE PostRep 005_artery_2.png,artery,train,png,FFPE PostRep 005,WSI
+40,FFPE PostRep 008_artery_0.png,artery,train,png,FFPE PostRep 008,WSI
+41,FFPE PostRep 006_artery_0.png,artery,train,png,FFPE PostRep 006,WSI
+42,8960_3760_0_artery_2.png,artery,train,png,FFPE PostRep 001,WSI
+43,FFPE PostRep 008_artery_11.png,artery,train,png,FFPE PostRep 008,WSI
+44,FFPE PostRep 008_artery_3.png,artery,train,png,FFPE PostRep 008,WSI
+45,FFPE PostRep 008_artery_4.png,artery,train,png,FFPE PostRep 008,WSI
+46,FFPE PostRep 008_artery_5.png,artery,train,png,FFPE PostRep 008,WSI
+47,8960_3760_0_artery_1.png,artery,train,png,FFPE PostRep 001,WSI
+48,4000_3600_0_artery_1.png,artery,train,png,FFPE PostRep 001,WSI
+0,FFPE PostRep 008_glomerulus_gs_0.png,glomerulus_gs,train,png,FFPE PostRep 008,WSI
+1,FFPE PostRep 005_glomerulus_gs_1.png,glomerulus_gs,train,png,FFPE PostRep 005,WSI
+2,FFPE PostRep 005_glomerulus_gs_0.png,glomerulus_gs,train,png,FFPE PostRep 005,WSI
+3,FFPE PostRep 005_glomerulus_gs_2.png,glomerulus_gs,train,png,FFPE PostRep 005,WSI
+4,7200_11600_0_Glomerulus_GS_1.png,glomerulus_gs,train,png,FFPE PostRep 001,WSI
+5,FFPE PostRep 010_glomerulus_gs_0.png,glomerulus_gs,train,png,FFPE PostRep 010,WSI
+0,FFPE PostRep 008_tubules_18.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+1,20000_14800_0_proximal_tubule_22.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+2,FFPE PostRep 010_tubule_17.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+3,FFPE PostRep 006_tubule_16.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+4,13600_18000_0_proximal_tubule_7.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+5,13600_18000_0_proximal_tubule_54.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+6,20000_14800_0_proximal_tubule_36.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+7,FFPE PostRep 010_tubule_2.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+8,13600_18000_0_proximal_tubule_4.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+9,20000_14800_0_proximal_tubule_10.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+10,FFPE PostRep 010_tubule_1.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+11,11000_16000_0_proximal_tubule_21.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+12,20000_14800_0_proximal_tubule_8.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+13,11000_16000_0_proximal_tubule_14.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+14,20000_14800_0_proximal_tubule_44.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+15,FFPE PostRep 006_tubule_7.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+16,20000_14800_0_proximal_tubule_54.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+17,13600_18000_0_proximal_tubule_58.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+18,20000_14800_0_proximal_tubule_65.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+19,13600_18000_0_proximal_tubule_26.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+20,13600_18000_0_proximal_tubule_1.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+21,FFPE PostRep 004_tubules_10.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+22,13600_18000_0_proximal_tubule_14.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+23,13600_18000_0_proximal_tubule_23.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+24,FFPE PostRep 008_tubules_14.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+25,11000_16000_0_proximal_tubule_22.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+26,20000_14800_0_proximal_tubule_49.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+27,FFPE PostRep 004_tubules_0.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+28,20000_14800_0_proximal_tubule_55.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+29,20000_14800_0_proximal_tubule_59.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+30,13600_18000_0_proximal_tubule_51.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+31,FFPE PostRep 005_tubules_16.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+32,20000_14800_0_proximal_tubule_25.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+33,FFPE PostRep 010_tubule_7.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+34,FFPE PostRep 010_tubule_13.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+35,13600_18000_0_proximal_tubule_16.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+36,FFPE PostRep 006_tubule_19.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+37,20000_14800_0_proximal_tubule_40.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+38,FFPE PostRep 006_tubule_6.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+39,13600_18000_0_proximal_tubule_44.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+40,20000_14800_0_proximal_tubule_61.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+41,FFPE PostRep 006_tubule_5.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+42,11000_16000_0_proximal_tubule_3.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+43,FFPE PostRep 008_tubules_12.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+44,20000_14800_0_proximal_tubule_52.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+45,FFPE PostRep 010_tubule_14.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+46,20000_14800_0_proximal_tubule_15.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+47,13600_18000_0_proximal_tubule_34.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+48,20000_14800_0_proximal_tubule_6.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+49,20000_14800_0_proximal_tubule_23.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+50,13600_18000_0_proximal_tubule_36.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+51,FFPE PostRep 006_tubule_9.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+52,13600_18000_0_proximal_tubule_19.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+53,FFPE PostRep 006_tubule_11.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+54,FFPE PostRep 008_tubules_2.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+55,20000_14800_0_proximal_tubule_39.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+56,13600_18000_0_proximal_tubule_27.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+57,11000_16000_0_proximal_tubule_6.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+58,20000_14800_0_proximal_tubule_64.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+59,11000_16000_0_proximal_tubule_20.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+60,FFPE PostRep 010_tubule_3.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+61,11000_16000_0_proximal_tubule_1.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+62,20000_14800_0_proximal_tubule_35.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+63,20000_14800_0_proximal_tubule_62.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+64,13600_18000_0_proximal_tubule_41.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+65,13600_18000_0_proximal_tubule_59.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+66,13600_18000_0_proximal_tubule_57.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+67,11000_16000_0_proximal_tubule_11.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+68,FFPE PostRep 004_tubules_6.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+69,13600_18000_0_proximal_tubule_12.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+70,20000_14800_0_proximal_tubule_26.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+71,FFPE PostRep 010_tubule_15.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+72,20000_14800_0_proximal_tubule_51.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+73,13600_18000_0_proximal_tubule_47.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+74,13600_18000_0_proximal_tubule_33.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+75,20000_14800_0_proximal_tubule_53.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+76,FFPE PostRep 010_tubule_10.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+77,FFPE PostRep 010_tubule_12.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+78,13600_18000_0_proximal_tubule_32.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+79,13600_18000_0_proximal_tubule_53.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+80,FFPE PostRep 005_tubules_14.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+81,13600_18000_0_proximal_tubule_18.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+82,13600_18000_0_proximal_tubule_17.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+83,13600_18000_0_proximal_tubule_5.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+84,11000_16000_0_proximal_tubule_10.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+85,11000_16000_0_proximal_tubule_9.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+86,FFPE PostRep 005_tubules_8.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+87,FFPE PostRep 004_tubules_11.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+88,FFPE PostRep 005_tubules_18.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+89,13600_18000_0_proximal_tubule_50.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+90,11000_16000_0_proximal_tubule_12.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+91,FFPE PostRep 010_tubule_9.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+92,FFPE PostRep 004_tubules_9.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+93,20000_14800_0_proximal_tubule_14.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+94,FFPE PostRep 010_tubule_8.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+95,20000_14800_0_proximal_tubule_28.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+96,11000_16000_0_proximal_tubule_7.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+97,13600_18000_0_proximal_tubule_28.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+98,13600_18000_0_proximal_tubule_45.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+99,11000_16000_0_proximal_tubule_8.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+100,20000_14800_0_proximal_tubule_24.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+101,20000_14800_0_proximal_tubule_42.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+102,20000_14800_0_proximal_tubule_47.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+103,20000_14800_0_proximal_tubule_3.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+104,13600_18000_0_proximal_tubule_43.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+105,13600_18000_0_proximal_tubule_48.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+106,20000_14800_0_proximal_tubule_57.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+107,11000_16000_0_proximal_tubule_23.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+108,FFPE PostRep 008_tubules_6.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+109,FFPE PostRep 010_tubule_16.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+110,FFPE PostRep 006_tubule_12.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+111,FFPE PostRep 006_tubule_13.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+112,11000_16000_0_proximal_tubule_17.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+113,20000_14800_0_proximal_tubule_34.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+114,20000_14800_0_proximal_tubule_50.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+115,13600_18000_0_proximal_tubule_3.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+116,11000_16000_0_proximal_tubule_18.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+117,FFPE PostRep 006_tubule_14.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+118,FFPE PostRep 008_tubules_3.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+119,13600_18000_0_proximal_tubule_40.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+120,20000_14800_0_proximal_tubule_68.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+121,FFPE PostRep 005_tubules_17.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+122,13600_18000_0_proximal_tubule_37.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+123,20000_14800_0_proximal_tubule_30.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+124,13600_18000_0_proximal_tubule_31.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+125,20000_14800_0_proximal_tubule_27.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+126,FFPE PostRep 006_tubule_10.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+127,FFPE PostRep 005_tubules_7.png,proximal_tubule,train,png,FFPE PostRep 005,WSI
+128,20000_14800_0_proximal_tubule_20.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+129,FFPE PostRep 004_tubules_2.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+130,20000_14800_0_proximal_tubule_13.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+131,13600_18000_0_proximal_tubule_52.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+132,20000_14800_0_proximal_tubule_4.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+133,FFPE PostRep 010_tubule_11.png,proximal_tubule,train,png,FFPE PostRep 010,WSI
+134,20000_14800_0_proximal_tubule_7.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+135,FFPE PostRep 008_tubules_10.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+136,FFPE PostRep 008_tubules_7.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+137,FFPE PostRep 008_tubules_1.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+138,20000_14800_0_proximal_tubule_67.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+139,20000_14800_0_proximal_tubule_69.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+140,20000_14800_0_proximal_tubule_48.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+141,FFPE PostRep 004_tubules_4.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+142,FFPE PostRep 006_tubule_15.png,proximal_tubule,train,png,FFPE PostRep 006,WSI
+143,20000_14800_0_proximal_tubule_29.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+144,11000_16000_0_proximal_tubule_13.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+145,13600_18000_0_proximal_tubule_21.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+146,20000_14800_0_proximal_tubule_9.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+147,20000_14800_0_proximal_tubule_11.png,proximal_tubule,train,png,FFPE PostRep 001,WSI
+148,FFPE PostRep 004_tubules_5.png,proximal_tubule,train,png,FFPE PostRep 004,WSI
+149,FFPE PostRep 008_tubules_11.png,proximal_tubule,train,png,FFPE PostRep 008,WSI
+0,FFPE PostRep 004_arteriole_1.png,arteriole,train,png,FFPE PostRep 004,WSI
+1,FFPE PostRep 010_arteriole_9.png,arteriole,train,png,FFPE PostRep 010,WSI
+2,FFPE PostRep 010_arteriole_0.png,arteriole,train,png,FFPE PostRep 010,WSI
+3,FFPE PostRep 008_arteriole_1.png,arteriole,train,png,FFPE PostRep 008,WSI
+4,FFPE PostRep 010_arteriole_3.png,arteriole,train,png,FFPE PostRep 010,WSI
+5,FFPE PostRep 006_arteriole_0.png,arteriole,train,png,FFPE PostRep 006,WSI
+6,FFPE PostRep 010_arteriole_7.png,arteriole,train,png,FFPE PostRep 010,WSI
+7,FFPE PostRep 008_arteriole_0.png,arteriole,train,png,FFPE PostRep 008,WSI
+8,FFPE PostRep 010_arteriole_4.png,arteriole,train,png,FFPE PostRep 010,WSI
+9,FFPE PostRep 005_arteriole_3.png,arteriole,train,png,FFPE PostRep 005,WSI
+10,FFPE PostRep 010_arteriole_5.png,arteriole,train,png,FFPE PostRep 010,WSI
+11,FFPE PostRep 010_arteriole_10.png,arteriole,train,png,FFPE PostRep 010,WSI
+12,FFPE PostRep 010_arteriole_8.png,arteriole,train,png,FFPE PostRep 010,WSI
+13,FFPE PostRep 010_arteriole_1.png,arteriole,train,png,FFPE PostRep 010,WSI
+14,FFPE PostRep 010_arteriole_2.png,arteriole,train,png,FFPE PostRep 010,WSI
+15,FFPE PostRep 005_arteriole_1.png,arteriole,train,png,FFPE PostRep 005,WSI
+16,FFPE PostRep 010_arteriole_6.png,arteriole,train,png,FFPE PostRep 010,WSI
+17,FFPE PostRep 005_arteriole_5.png,arteriole,train,png,FFPE PostRep 005,WSI
+18,FFPE PostRep 005_arteriole_4.png,arteriole,train,png,FFPE PostRep 005,WSI
+19,FFPE PostRep 005_arteriole_0.png,arteriole,train,png,FFPE PostRep 005,WSI
+20,FFPE PostRep 008_arteriole_2.png,arteriole,train,png,FFPE PostRep 008,WSI
+21,FFPE PostRep 005_arteriole_2.png,arteriole,train,png,FFPE PostRep 005,WSI
+22,FFPE PostRep 004_arteriole_0.png,arteriole,train,png,FFPE PostRep 004,WSI
+0,FFPE PostRep 010_glomerulus_26.png,glomerulus,train,png,FFPE PostRep 010,WSI
+1,FFPE PostRep 005_glomerulus_14.png,glomerulus,train,png,FFPE PostRep 005,WSI
+2,FFPE PostRep 010_glomerulus_3.png,glomerulus,train,png,FFPE PostRep 010,WSI
+3,FFPE PostRep 005_glomerulus_11.png,glomerulus,train,png,FFPE PostRep 005,WSI
+4,FFPE PostRep 010_glomerulus_19.png,glomerulus,train,png,FFPE PostRep 010,WSI
+5,FFPE PostRep 010_glomerulus_14.png,glomerulus,train,png,FFPE PostRep 010,WSI
+6,20000_11600_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+7,FFPE PostRep 006_glomerulus_5.png,glomerulus,train,png,FFPE PostRep 006,WSI
+8,FFPE PostRep 010_glomerulus_9.png,glomerulus,train,png,FFPE PostRep 010,WSI
+9,glom_HE_001_glom_4.png,glomerulus,train,png,glom_HE_001,MultiStain
+10,FFPE PostRep 004_glomerulus_6.png,glomerulus,train,png,FFPE PostRep 004,WSI
+11,FFPE PostRep 006_glomerulus_1.png,glomerulus,train,png,FFPE PostRep 006,WSI
+12,FFPE PostRep 004_glomerulus_0.png,glomerulus,train,png,FFPE PostRep 004,WSI
+13,FFPE PostRep 008_glomerulus_24.png,glomerulus,train,png,FFPE PostRep 008,WSI
+14,FFPE PostRep 008_glomerulus_9.png,glomerulus,train,png,FFPE PostRep 008,WSI
+15,FFPE PostRep 008_glomerulus_25.png,glomerulus,train,png,FFPE PostRep 008,WSI
+16,FFPE PostRep 005_glomerulus_2.png,glomerulus,train,png,FFPE PostRep 005,WSI
+17,FFPE PostRep 006_glomerulus_10.png,glomerulus,train,png,FFPE PostRep 006,WSI
+18,FFPE PostRep 005_glomerulus_0.png,glomerulus,train,png,FFPE PostRep 005,WSI
+19,FFPE PostRep 008_glomerulus_11.png,glomerulus,train,png,FFPE PostRep 008,WSI
+20,13600_18000_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+21,17600_9200_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+22,FFPE PostRep 005_glomerulus_4.png,glomerulus,train,png,FFPE PostRep 005,WSI
+23,tubule_HE_005_glom_1.png,glomerulus,train,png,tubule_HE_005,MultiStain
+24,FFPE PostRep 005_glomerulus_21.png,glomerulus,train,png,FFPE PostRep 005,WSI
+25,FFPE PostRep 005_glomerulus_8.png,glomerulus,train,png,FFPE PostRep 005,WSI
+26,FFPE PostRep 010_glomerulus_16.png,glomerulus,train,png,FFPE PostRep 010,WSI
+27,glom_HE_002_glom_1.png,glomerulus,train,png,glom_HE_002,MultiStain
+28,FFPE PostRep 005_glomerulus_5.png,glomerulus,train,png,FFPE PostRep 005,WSI
+29,FFPE PostRep 008_glomerulus_16.png,glomerulus,train,png,FFPE PostRep 008,WSI
+30,FFPE PostRep 005_glomerulus_6.png,glomerulus,train,png,FFPE PostRep 005,WSI
+31,FFPE PostRep 010_glomerulus_13.png,glomerulus,train,png,FFPE PostRep 010,WSI
+32,FFPE PostRep 008_glomerulus_19.png,glomerulus,train,png,FFPE PostRep 008,WSI
+33,FFPE PostRep 008_glomerulus_26.png,glomerulus,train,png,FFPE PostRep 008,WSI
+34,FFPE PostRep 004_glomerulus_5.png,glomerulus,train,png,FFPE PostRep 004,WSI
+35,FFPE PostRep 008_glomerulus_1.png,glomerulus,train,png,FFPE PostRep 008,WSI
+36,FFPE PostRep 010_glomerulus_7.png,glomerulus,train,png,FFPE PostRep 010,WSI
+37,20000_18000_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+38,FFPE PostRep 010_glomerulus_5.png,glomerulus,train,png,FFPE PostRep 010,WSI
+39,FFPE PostRep 004_glomerulus_12.png,glomerulus,train,png,FFPE PostRep 004,WSI
+40,FFPE PostRep 010_glomerulus_0.png,glomerulus,train,png,FFPE PostRep 010,WSI
+41,FFPE PostRep 008_glomerulus_5.png,glomerulus,train,png,FFPE PostRep 008,WSI
+42,FFPE PostRep 008_glomerulus_21.png,glomerulus,train,png,FFPE PostRep 008,WSI
+43,FFPE PostRep 005_glomerulus_10.png,glomerulus,train,png,FFPE PostRep 005,WSI
+44,artery_HE_001_glom_2.png,glomerulus,train,png,artery_HE_001,MultiStain
+45,FFPE PostRep 010_glomerulus_12.png,glomerulus,train,png,FFPE PostRep 010,WSI
+46,FFPE PostRep 010_glomerulus_21.png,glomerulus,train,png,FFPE PostRep 010,WSI
+47,FFPE PostRep 006_glomerulus_7.png,glomerulus,train,png,FFPE PostRep 006,WSI
+48,FFPE PostRep 005_glomerulus_9.png,glomerulus,train,png,FFPE PostRep 005,WSI
+49,7200_11600_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+50,FFPE PostRep 004_glomerulus_11.png,glomerulus,train,png,FFPE PostRep 004,WSI
+51,FFPE PostRep 008_glomerulus_10.png,glomerulus,train,png,FFPE PostRep 008,WSI
+52,14080_4400_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+53,FFPE PostRep 006_glomerulus_15.png,glomerulus,train,png,FFPE PostRep 006,WSI
+54,tubule_HE_005_glom_2.png,glomerulus,train,png,tubule_HE_005,MultiStain
+55,FFPE PostRep 010_glomerulus_29.png,glomerulus,train,png,FFPE PostRep 010,WSI
+56,FFPE PostRep 005_glomerulus_15.png,glomerulus,train,png,FFPE PostRep 005,WSI
+57,FFPE PostRep 006_glomerulus_9.png,glomerulus,train,png,FFPE PostRep 006,WSI
+58,FFPE PostRep 006_glomerulus_11.png,glomerulus,train,png,FFPE PostRep 006,WSI
+59,FFPE PostRep 010_glomerulus_6.png,glomerulus,train,png,FFPE PostRep 010,WSI
+60,FFPE PostRep 005_glomerulus_22.png,glomerulus,train,png,FFPE PostRep 005,WSI
+61,FFPE PostRep 008_glomerulus_3.png,glomerulus,train,png,FFPE PostRep 008,WSI
+62,FFPE PostRep 005_glomerulus_26.png,glomerulus,train,png,FFPE PostRep 005,WSI
+63,FFPE PostRep 010_glomerulus_23.png,glomerulus,train,png,FFPE PostRep 010,WSI
+64,FFPE PostRep 006_glomerulus_16.png,glomerulus,train,png,FFPE PostRep 006,WSI
+65,FFPE PostRep 005_glomerulus_18.png,glomerulus,train,png,FFPE PostRep 005,WSI
+66,FFPE PostRep 008_glomerulus_13.png,glomerulus,train,png,FFPE PostRep 008,WSI
+67,FFPE PostRep 008_glomerulus_14.png,glomerulus,train,png,FFPE PostRep 008,WSI
+68,FFPE PostRep 006_glomerulus_13.png,glomerulus,train,png,FFPE PostRep 006,WSI
+69,20000_18000_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+70,FFPE PostRep 006_glomerulus_0.png,glomerulus,train,png,FFPE PostRep 006,WSI
+71,FFPE PostRep 008_glomerulus_23.png,glomerulus,train,png,FFPE PostRep 008,WSI
+72,FFPE PostRep 008_glomerulus_15.png,glomerulus,train,png,FFPE PostRep 008,WSI
+73,FFPE PostRep 008_glomerulus_8.png,glomerulus,train,png,FFPE PostRep 008,WSI
+74,FFPE PostRep 005_glomerulus_29.png,glomerulus,train,png,FFPE PostRep 005,WSI
+75,15200_20400_0_glom_3.png,glomerulus,train,png,FFPE PostRep 001,WSI
+76,FFPE PostRep 004_glomerulus_9.png,glomerulus,train,png,FFPE PostRep 004,WSI
+77,FFPE PostRep 005_glomerulus_1.png,glomerulus,train,png,FFPE PostRep 005,WSI
+78,tubule_HE_004_glom_1.png,glomerulus,train,png,tubule_HE_004,MultiStain
+79,glom_HE_001_glom_1.png,glomerulus,train,png,glom_HE_001,MultiStain
+80,FFPE PostRep 008_glomerulus_17.png,glomerulus,train,png,FFPE PostRep 008,WSI
+81,FFPE PostRep 006_glomerulus_2.png,glomerulus,train,png,FFPE PostRep 006,WSI
+82,FFPE PostRep 004_glomerulus_8.png,glomerulus,train,png,FFPE PostRep 004,WSI
+83,FFPE PostRep 010_glomerulus_10.png,glomerulus,train,png,FFPE PostRep 010,WSI
+84,FFPE PostRep 005_glomerulus_13.png,glomerulus,train,png,FFPE PostRep 005,WSI
+85,15200_20400_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+86,14080_4400_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+87,20000_14800_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+88,FFPE PostRep 005_glomerulus_30.png,glomerulus,train,png,FFPE PostRep 005,WSI
+89,FFPE PostRep 008_glomerulus_4.png,glomerulus,train,png,FFPE PostRep 008,WSI
+90,tubule_HE_002_glom_1.png,glomerulus,train,png,tubule_HE_002,MultiStain
+91,FFPE PostRep 004_glomerulus_1.png,glomerulus,train,png,FFPE PostRep 004,WSI
+92,FFPE PostRep 005_glomerulus_19.png,glomerulus,train,png,FFPE PostRep 005,WSI
+93,FFPE PostRep 010_glomerulus_24.png,glomerulus,train,png,FFPE PostRep 010,WSI
+94,FFPE PostRep 006_glomerulus_3.png,glomerulus,train,png,FFPE PostRep 006,WSI
+95,FFPE PostRep 005_glomerulus_20.png,glomerulus,train,png,FFPE PostRep 005,WSI
+96,FFPE PostRep 005_glomerulus_27.png,glomerulus,train,png,FFPE PostRep 005,WSI
+97,FFPE PostRep 010_glomerulus_8.png,glomerulus,train,png,FFPE PostRep 010,WSI
+98,FFPE PostRep 006_glomerulus_4.png,glomerulus,train,png,FFPE PostRep 006,WSI
+99,FFPE PostRep 010_glomerulus_17.png,glomerulus,train,png,FFPE PostRep 010,WSI
+100,FFPE PostRep 010_glomerulus_18.png,glomerulus,train,png,FFPE PostRep 010,WSI
+101,FFPE PostRep 008_glomerulus_7.png,glomerulus,train,png,FFPE PostRep 008,WSI
+102,5600_4400_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+103,FFPE PostRep 010_glomerulus_11.png,glomerulus,train,png,FFPE PostRep 010,WSI
+104,glom_HE_002_glom_2.png,glomerulus,train,png,glom_HE_002,MultiStain
+105,tubule_HE_002_glom_2.png,glomerulus,train,png,tubule_HE_002,MultiStain
+106,FFPE PostRep 005_glomerulus_12.png,glomerulus,train,png,FFPE PostRep 005,WSI
+107,FFPE PostRep 008_glomerulus_20.png,glomerulus,train,png,FFPE PostRep 008,WSI
+108,FFPE PostRep 010_glomerulus_28.png,glomerulus,train,png,FFPE PostRep 010,WSI
+109,FFPE PostRep 005_glomerulus_7.png,glomerulus,train,png,FFPE PostRep 005,WSI
+110,FFPE PostRep 010_glomerulus_15.png,glomerulus,train,png,FFPE PostRep 010,WSI
+111,FFPE PostRep 010_glomerulus_4.png,glomerulus,train,png,FFPE PostRep 010,WSI
+112,19680_25200_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+113,FFPE PostRep 004_glomerulus_4.png,glomerulus,train,png,FFPE PostRep 004,WSI
+114,FFPE PostRep 005_glomerulus_28.png,glomerulus,train,png,FFPE PostRep 005,WSI
+115,glom_HE_001_glom_2.png,glomerulus,train,png,glom_HE_001,MultiStain
+116,artery_HE_003_glom_2.png,glomerulus,train,png,artery_HE_003,MultiStain
+117,glom_HE_001_glom_3.png,glomerulus,train,png,glom_HE_001,MultiStain
+118,tubule_HE_003_glom_2.png,glomerulus,train,png,tubule_HE_003,MultiStain
+119,FFPE PostRep 006_glomerulus_14.png,glomerulus,train,png,FFPE PostRep 006,WSI
+120,FFPE PostRep 004_glomerulus_10.png,glomerulus,train,png,FFPE PostRep 004,WSI
+121,FFPE PostRep 008_glomerulus_0.png,glomerulus,train,png,FFPE PostRep 008,WSI
+122,FFPE PostRep 005_glomerulus_16.png,glomerulus,train,png,FFPE PostRep 005,WSI
+123,artery_HE_002_glom_1.png,glomerulus,train,png,artery_HE_002,MultiStain
+124,FFPE PostRep 008_glomerulus_6.png,glomerulus,train,png,FFPE PostRep 008,WSI
+125,FFPE PostRep 010_glomerulus_22.png,glomerulus,train,png,FFPE PostRep 010,WSI
+126,FFPE PostRep 006_glomerulus_8.png,glomerulus,train,png,FFPE PostRep 006,WSI
+127,FFPE PostRep 010_glomerulus_25.png,glomerulus,train,png,FFPE PostRep 010,WSI
+128,FFPE PostRep 005_glomerulus_3.png,glomerulus,train,png,FFPE PostRep 005,WSI
+129,FFPE PostRep 010_glomerulus_20.png,glomerulus,train,png,FFPE PostRep 010,WSI
+130,19680_25200_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+131,20000_11600_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+132,FFPE PostRep 004_glomerulus_7.png,glomerulus,train,png,FFPE PostRep 004,WSI
+133,FFPE PostRep 004_glomerulus_2.png,glomerulus,train,png,FFPE PostRep 004,WSI
+134,FFPE PostRep 006_glomerulus_12.png,glomerulus,train,png,FFPE PostRep 006,WSI
+135,10400_14480_0_glom_2.png,glomerulus,train,png,FFPE PostRep 001,WSI
+136,FFPE PostRep 008_glomerulus_27.png,glomerulus,train,png,FFPE PostRep 008,WSI
+137,18400_22800_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+138,FFPE PostRep 005_glomerulus_25.png,glomerulus,train,png,FFPE PostRep 005,WSI
+139,FFPE PostRep 006_glomerulus_6.png,glomerulus,train,png,FFPE PostRep 006,WSI
+140,FFPE PostRep 005_glomerulus_17.png,glomerulus,train,png,FFPE PostRep 005,WSI
+141,FFPE PostRep 008_glomerulus_2.png,glomerulus,train,png,FFPE PostRep 008,WSI
+142,FFPE PostRep 010_glomerulus_1.png,glomerulus,train,png,FFPE PostRep 010,WSI
+143,FFPE PostRep 005_glomerulus_24.png,glomerulus,train,png,FFPE PostRep 005,WSI
+144,FFPE PostRep 008_glomerulus_22.png,glomerulus,train,png,FFPE PostRep 008,WSI
+145,3600_4320_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+146,15200_20400_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+147,artery_HE_001_glom_1.png,glomerulus,train,png,artery_HE_001,MultiStain
+148,10400_14480_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+149,FFPE PostRep 010_glomerulus_2.png,glomerulus,train,png,FFPE PostRep 010,WSI
+150,FFPE PostRep 008_glomerulus_18.png,glomerulus,train,png,FFPE PostRep 008,WSI
+151,tubule_HE_004_glom_2.png,glomerulus,train,png,tubule_HE_004,MultiStain
+152,FFPE PostRep 005_glomerulus_23.png,glomerulus,train,png,FFPE PostRep 005,WSI
+153,FFPE PostRep 004_glomerulus_3.png,glomerulus,train,png,FFPE PostRep 004,WSI
+154,4000_8400_0_glom_1.png,glomerulus,train,png,FFPE PostRep 001,WSI
+155,FFPE PostRep 008_glomerulus_12.png,glomerulus,train,png,FFPE PostRep 008,WSI
+156,FFPE PostRep 010_glomerulus_27.png,glomerulus,train,png,FFPE PostRep 010,WSI
+0,FFPE PostRep 009_tubule_2.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+1,HE_001_proximal_tubule_55.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+2,HE_001_distal_tubule_2.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+3,HE_001_distal_tubule_19.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+4,HE_001_distal_tubule_17.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+5,HE_001_proximal_tubule_42.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+6,HE_001_proximal_tubule_52.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+7,HE_001_distal_tubule_12.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+8,HE_001_proximal_tubule_1.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+9,HE_001_distal_tubule_20.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+10,HE_001_proximal_tubule_2.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+11,HE_001_distal_tubule_11.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+12,HE_001_distal_tubule_5.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+13,HE_001_distal_tubule_21.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+14,HE_001_distal_tubule_9.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+15,HE_001_proximal_tubule_12.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+16,HE_001_proximal_tubule_51.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+17,HE_001_proximal_tubule_72.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+18,FFPE PostRep 009_tubule_13.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+19,HE_001_proximal_tubule_27.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+20,HE_001_distal_tubule_8.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+21,HE_001_distal_tubule_28.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+22,FFPE PostRep 003_tubules_13.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+23,HE_001_proximal_tubule_50.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+24,FFPE PostRep 003_tubules_39.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+25,HE_001_proximal_tubule_53.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+26,FFPE PostRep 003_tubules_8.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+27,HE_001_distal_tubule_32.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+28,HE_001_proximal_tubule_44.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+29,HE_001_proximal_tubule_8.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+30,HE_001_proximal_tubule_64.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+31,HE_001_distal_tubule_16.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+32,HE_001_distal_tubule_26.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+33,HE_001_distal_tubule_23.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+34,FFPE PostRep 009_tubule_9.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+35,FFPE PostRep 003_tubules_0.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+36,FFPE PostRep 003_tubules_1.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+37,FFPE PostRep 009_tubule_6.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+38,HE_001_distal_tubule_1.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+39,HE_001_proximal_tubule_39.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+40,HE_001_proximal_tubule_60.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+41,HE_001_proximal_tubule_30.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+42,FFPE PostRep 009_tubule_3.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+43,FFPE PostRep 003_tubules_32.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+44,FFPE PostRep 003_tubules_2.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+45,FFPE PostRep 003_tubules_10.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+46,HE_001_distal_tubule_31.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+47,FFPE PostRep 003_tubules_18.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+48,HE_001_distal_tubule_10.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+49,HE_001_distal_tubule_27.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+50,FFPE PostRep 003_tubules_17.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+51,HE_001_proximal_tubule_67.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+52,HE_001_distal_tubule_22.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+53,HE_001_proximal_tubule_46.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+54,HE_001_distal_tubule_3.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+55,HE_001_proximal_tubule_73.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+56,HE_001_distal_tubule_29.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+57,FFPE PostRep 003_tubules_37.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+58,HE_001_distal_tubule_14.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+59,HE_001_proximal_tubule_29.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+60,FFPE PostRep 009_tubule_19.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+61,HE_001_proximal_tubule_71.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+62,HE_001_distal_tubule_18.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+63,FFPE PostRep 003_tubules_35.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+64,HE_001_distal_tubule_25.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+65,HE_001_proximal_tubule_21.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+66,HE_001_distal_tubule_33.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+67,FFPE PostRep 009_tubule_4.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+68,HE_001_distal_tubule_30.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+69,HE_001_distal_tubule_6.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+70,HE_001_distal_tubule_15.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+71,HE_001_proximal_tubule_62.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+72,HE_001_proximal_tubule_18.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+73,HE_001_proximal_tubule_69.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+74,HE_001_distal_tubule_13.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+75,HE_001_distal_tubule_4.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+76,HE_001_proximal_tubule_61.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+77,HE_001_distal_tubule_24.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+78,FFPE PostRep 003_tubules_42.png,distal_tubule,validation,png,FFPE PostRep 003,WSI
+79,FFPE PostRep 009_tubule_10.png,distal_tubule,validation,png,FFPE PostRep 009,WSI
+80,HE_001_distal_tubule_7.png,distal_tubule,validation,png,tubule_HE_001,MultiStain
+0,FFPE PostRep 009_artery_2.png,artery,validation,png,FFPE PostRep 009,WSI
+1,FFPE PostRep 009_artery_0.png,artery,validation,png,FFPE PostRep 009,WSI
+2,FFPE PostRep 009_artery_9.png,artery,validation,png,FFPE PostRep 009,WSI
+3,FFPE PostRep 003_artery_0.png,artery,validation,png,FFPE PostRep 003,WSI
+4,FFPE PostRep 003_artery_3.png,artery,validation,png,FFPE PostRep 003,WSI
+5,FFPE PostRep 009_artery_8.png,artery,validation,png,FFPE PostRep 009,WSI
+6,FFPE PostRep 009_artery_7.png,artery,validation,png,FFPE PostRep 009,WSI
+7,FFPE PostRep 009_artery_11.png,artery,validation,png,FFPE PostRep 009,WSI
+8,FFPE PostRep 009_artery_6.png,artery,validation,png,FFPE PostRep 009,WSI
+9,FFPE PostRep 009_artery_5.png,artery,validation,png,FFPE PostRep 009,WSI
+10,FFPE PostRep 003_artery_4.png,artery,validation,png,FFPE PostRep 003,WSI
+11,FFPE PostRep 009_artery_1.png,artery,validation,png,FFPE PostRep 009,WSI
+12,HE_001_artery_1.png,artery,validation,png,tubule_HE_001,MultiStain
+13,FFPE PostRep 009_artery_10.png,artery,validation,png,FFPE PostRep 009,WSI
+14,FFPE PostRep 009_artery_3.png,artery,validation,png,FFPE PostRep 009,WSI
+15,FFPE PostRep 003_artery_2.png,artery,validation,png,FFPE PostRep 003,WSI
+16,FFPE PostRep 003_artery_1.png,artery,validation,png,FFPE PostRep 003,WSI
+17,FFPE PostRep 009_artery_4.png,artery,validation,png,FFPE PostRep 009,WSI
+0,FFPE PostRep 003_glomerulus_gs_0.png,glomerulus_gs,validation,png,FFPE PostRep 003,WSI
+1,FFPE PostRep 003_glomerulus_gs_1.png,glomerulus_gs,validation,png,FFPE PostRep 003,WSI
+2,FFPE PostRep 009_glomerulus_gs_0.png,glomerulus_gs,validation,png,FFPE PostRep 009,WSI
+3,FFPE PostRep 009_glomerulus_gs_1.png,glomerulus_gs,validation,png,FFPE PostRep 009,WSI
+0,HE_001_proximal_tubule_74.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+1,HE_001_proximal_tubule_28.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+2,FFPE PostRep 009_tubule_14.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+3,HE_001_proximal_tubule_56.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+4,FFPE PostRep 003_tubules_14.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+5,FFPE PostRep 009_tubule_11.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+6,FFPE PostRep 003_tubules_12.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+7,FFPE PostRep 009_tubule_8.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+8,FFPE PostRep 003_tubules_25.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+9,FFPE PostRep 003_tubules_36.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+10,HE_001_proximal_tubule_9.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+11,HE_001_proximal_tubule_35.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+12,HE_001_proximal_tubule_5.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+13,FFPE PostRep 003_tubules_3.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+14,FFPE PostRep 003_tubules_6.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+15,HE_001_proximal_tubule_63.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+16,FFPE PostRep 003_tubules_24.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+17,HE_001_proximal_tubule_75.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+18,FFPE PostRep 003_tubules_15.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+19,HE_001_proximal_tubule_15.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+20,FFPE PostRep 003_tubules_34.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+21,FFPE PostRep 009_tubule_18.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+22,HE_001_proximal_tubule_65.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+23,FFPE PostRep 003_tubules_20.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+24,FFPE PostRep 003_tubules_27.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+25,FFPE PostRep 003_tubules_21.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+26,FFPE PostRep 003_tubules_43.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+27,HE_001_proximal_tubule_70.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+28,HE_001_proximal_tubule_59.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+29,HE_001_proximal_tubule_36.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+30,HE_001_proximal_tubule_31.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+31,HE_001_proximal_tubule_22.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+32,FFPE PostRep 009_tubule_17.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+33,HE_001_proximal_tubule_6.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+34,FFPE PostRep 003_tubules_7.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+35,HE_001_proximal_tubule_66.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+36,HE_001_proximal_tubule_49.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+37,FFPE PostRep 009_tubule_7.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+38,HE_001_proximal_tubule_11.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+39,HE_001_proximal_tubule_33.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+40,FFPE PostRep 009_tubule_16.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+41,HE_001_proximal_tubule_48.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+42,HE_001_proximal_tubule_58.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+43,HE_001_proximal_tubule_25.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+44,HE_001_proximal_tubule_34.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+45,FFPE PostRep 003_tubules_28.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+46,HE_001_proximal_tubule_32.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+47,FFPE PostRep 009_tubule_15.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+48,HE_001_proximal_tubule_4.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+49,HE_001_proximal_tubule_38.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+50,FFPE PostRep 003_tubules_16.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+51,FFPE PostRep 003_tubules_26.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+52,FFPE PostRep 003_tubules_30.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+53,FFPE PostRep 009_tubule_1.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+54,FFPE PostRep 003_tubules_33.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+55,HE_001_proximal_tubule_17.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+56,FFPE PostRep 003_tubules_41.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+57,FFPE PostRep 009_tubule_12.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+58,FFPE PostRep 003_tubules_5.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+59,HE_001_proximal_tubule_10.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+60,FFPE PostRep 003_tubules_19.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+61,FFPE PostRep 003_tubules_31.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+62,HE_001_proximal_tubule_26.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+63,FFPE PostRep 003_tubules_38.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+64,FFPE PostRep 009_tubule_5.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+65,FFPE PostRep 003_tubules_9.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+66,HE_001_proximal_tubule_14.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+67,FFPE PostRep 003_tubules_23.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+68,HE_001_proximal_tubule_16.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+69,HE_001_proximal_tubule_20.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+70,HE_001_proximal_tubule_57.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+71,FFPE PostRep 003_tubules_11.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+72,FFPE PostRep 003_tubules_22.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+73,FFPE PostRep 003_tubules_4.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+74,FFPE PostRep 003_tubules_40.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+75,FFPE PostRep 009_tubule_0.png,proximal_tubule,validation,png,FFPE PostRep 009,WSI
+76,FFPE PostRep 003_tubules_29.png,proximal_tubule,validation,png,FFPE PostRep 003,WSI
+77,HE_001_proximal_tubule_41.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+78,HE_001_proximal_tubule_24.png,proximal_tubule,validation,png,tubule_HE_001,MultiStain
+0,FFPE PostRep 003_arteriole_0.png,arteriole,validation,png,FFPE PostRep 003,WSI
+1,FFPE PostRep 003_arteriole_14.png,arteriole,validation,png,FFPE PostRep 003,WSI
+2,FFPE PostRep 003_arteriole_1.png,arteriole,validation,png,FFPE PostRep 003,WSI
+3,FFPE PostRep 003_arteriole_13.png,arteriole,validation,png,FFPE PostRep 003,WSI
+4,FFPE PostRep 003_arteriole_11.png,arteriole,validation,png,FFPE PostRep 003,WSI
+5,FFPE PostRep 003_arteriole_4.png,arteriole,validation,png,FFPE PostRep 003,WSI
+6,FFPE PostRep 003_arteriole_12.png,arteriole,validation,png,FFPE PostRep 003,WSI
+7,FFPE PostRep 003_arteriole_15.png,arteriole,validation,png,FFPE PostRep 003,WSI
+8,FFPE PostRep 003_arteriole_19.png,arteriole,validation,png,FFPE PostRep 003,WSI
+9,FFPE PostRep 003_arteriole_2.png,arteriole,validation,png,FFPE PostRep 003,WSI
+10,FFPE PostRep 003_arteriole_7.png,arteriole,validation,png,FFPE PostRep 003,WSI
+11,FFPE PostRep 003_arteriole_16.png,arteriole,validation,png,FFPE PostRep 003,WSI
+12,FFPE PostRep 003_arteriole_3.png,arteriole,validation,png,FFPE PostRep 003,WSI
+13,FFPE PostRep 003_arteriole_23.png,arteriole,validation,png,FFPE PostRep 003,WSI
+14,FFPE PostRep 003_arteriole_8.png,arteriole,validation,png,FFPE PostRep 003,WSI
+15,FFPE PostRep 003_arteriole_21.png,arteriole,validation,png,FFPE PostRep 003,WSI
+16,FFPE PostRep 003_arteriole_22.png,arteriole,validation,png,FFPE PostRep 003,WSI
+17,FFPE PostRep 003_arteriole_20.png,arteriole,validation,png,FFPE PostRep 003,WSI
+18,FFPE PostRep 003_arteriole_18.png,arteriole,validation,png,FFPE PostRep 003,WSI
+19,FFPE PostRep 003_arteriole_24.png,arteriole,validation,png,FFPE PostRep 003,WSI
+20,FFPE PostRep 003_arteriole_9.png,arteriole,validation,png,FFPE PostRep 003,WSI
+21,FFPE PostRep 003_arteriole_17.png,arteriole,validation,png,FFPE PostRep 003,WSI
+22,FFPE PostRep 003_arteriole_10.png,arteriole,validation,png,FFPE PostRep 003,WSI
+23,FFPE PostRep 003_arteriole_6.png,arteriole,validation,png,FFPE PostRep 003,WSI
+24,FFPE PostRep 003_arteriole_5.png,arteriole,validation,png,FFPE PostRep 003,WSI
+0,FFPE PostRep 003_glomerulus_13.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+1,FFPE PostRep 003_glomerulus_27.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+2,FFPE PostRep 009_glomerulus_18.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+3,FFPE PostRep 009_glomerulus_12.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+4,FFPE PostRep 003_glomerulus_25.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+5,FFPE PostRep 009_glomerulus_5.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+6,FFPE PostRep 003_glomerulus_24.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+7,FFPE PostRep 009_glomerulus_7.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+8,FFPE PostRep 009_glomerulus_31.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+9,FFPE PostRep 009_glomerulus_11.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+10,FFPE PostRep 009_glomerulus_17.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+11,FFPE PostRep 003_glomerulus_6.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+12,FFPE PostRep 003_glomerulus_10.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+13,FFPE PostRep 003_glomerulus_19.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+14,FFPE PostRep 009_glomerulus_9.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+15,FFPE PostRep 003_glomerulus_16.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+16,FFPE PostRep 009_glomerulus_36.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+17,FFPE PostRep 009_glomerulus_16.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+18,FFPE PostRep 009_glomerulus_23.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+19,FFPE PostRep 003_glomerulus_14.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+20,FFPE PostRep 003_glomerulus_20.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+21,FFPE PostRep 009_glomerulus_27.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+22,FFPE PostRep 009_glomerulus_25.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+23,FFPE PostRep 009_glomerulus_21.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+24,FFPE PostRep 009_glomerulus_34.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+25,FFPE PostRep 009_glomerulus_39.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+26,FFPE PostRep 009_glomerulus_29.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+27,FFPE PostRep 003_glomerulus_1.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+28,FFPE PostRep 003_glomerulus_9.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+29,FFPE PostRep 003_glomerulus_21.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+30,FFPE PostRep 003_glomerulus_11.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+31,FFPE PostRep 003_glomerulus_29.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+32,FFPE PostRep 009_glomerulus_33.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+33,FFPE PostRep 009_glomerulus_15.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+34,FFPE PostRep 009_glomerulus_20.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+35,FFPE PostRep 003_glomerulus_4.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+36,FFPE PostRep 009_glomerulus_35.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+37,FFPE PostRep 003_glomerulus_0.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+38,FFPE PostRep 009_glomerulus_22.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+39,FFPE PostRep 009_glomerulus_30.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+40,FFPE PostRep 009_glomerulus_3.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+41,FFPE PostRep 003_glomerulus_8.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+42,FFPE PostRep 009_glomerulus_41.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+43,FFPE PostRep 009_glomerulus_10.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+44,FFPE PostRep 009_glomerulus_14.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+45,FFPE PostRep 003_glomerulus_2.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+46,FFPE PostRep 003_glomerulus_12.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+47,FFPE PostRep 009_glomerulus_0.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+48,FFPE PostRep 003_glomerulus_5.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+49,FFPE PostRep 009_glomerulus_6.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+50,FFPE PostRep 003_glomerulus_31.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+51,FFPE PostRep 003_glomerulus_7.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+52,FFPE PostRep 009_glomerulus_28.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+53,FFPE PostRep 003_glomerulus_32.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+54,FFPE PostRep 003_glomerulus_15.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+55,FFPE PostRep 003_glomerulus_30.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+56,FFPE PostRep 009_glomerulus_8.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+57,FFPE PostRep 009_glomerulus_1.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+58,FFPE PostRep 003_glomerulus_28.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+59,FFPE PostRep 009_glomerulus_32.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+60,FFPE PostRep 009_glomerulus_38.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+61,FFPE PostRep 003_glomerulus_33.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+62,HE_001_glom_1.png,glomerulus,validation,png,tubule_HE_001,MultiStain
+63,FFPE PostRep 009_glomerulus_2.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+64,FFPE PostRep 009_glomerulus_24.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+65,FFPE PostRep 003_glomerulus_34.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+66,FFPE PostRep 003_glomerulus_35.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+67,FFPE PostRep 003_glomerulus_3.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+68,FFPE PostRep 009_glomerulus_42.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+69,FFPE PostRep 009_glomerulus_19.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+70,FFPE PostRep 009_glomerulus_13.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+71,FFPE PostRep 009_glomerulus_40.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+72,FFPE PostRep 009_glomerulus_4.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+73,FFPE PostRep 003_glomerulus_18.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+74,FFPE PostRep 009_glomerulus_37.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+75,FFPE PostRep 009_glomerulus_26.png,glomerulus,validation,png,FFPE PostRep 009,WSI
+76,FFPE PostRep 003_glomerulus_17.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+77,HE_001_glom_2.png,glomerulus,validation,png,tubule_HE_001,MultiStain
+78,FFPE PostRep 003_glomerulus_22.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+79,FFPE PostRep 003_glomerulus_23.png,glomerulus,validation,png,FFPE PostRep 003,WSI
+80,FFPE PostRep 003_glomerulus_26.png,glomerulus,validation,png,FFPE PostRep 003,WSI
