@@ -10,7 +10,7 @@ train: 001, 004, 005, 006, 008, 010, all other multistain
 validation: 003, 009, HE_001 (tubule_HE_001)
 test: 002, 007
 * for slide 003-010, tubule/tubules are copied and divided into distal_tubule and proximal_tubule
-
+```
 ds          label          
 test        arteriole           38
             artery              10
@@ -37,7 +37,7 @@ validation  arteriole           25
             proximal_tubule     79
             tubule              20
             tubules             44
-
+```
 readme for vignettes_1117
 - vignettes: working folder for collage generator
   - combine vignettes_new_level_0, HE_001_rotated, FFPE PostRep 001 and multistain
